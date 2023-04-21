@@ -1,3 +1,3 @@
-# dream-store
+# dogs-of-bulacan
 
-Website for Dream Store located at Blumentritt St. Cor. Dapitan St. Sampaloc, Manila
+Website-sample for dogs-of-bulacan
